@@ -1,2 +1,2 @@
 # LittleTest
-Just a little test for coding
+First time to coding a world:) Not bad
